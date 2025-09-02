@@ -1,16 +1,39 @@
-## Hi there 👋
+<!-- Banner -->
+<p align="center">
+  <img src="https://i.pinimg.com/736x/3b/42/06/3b4206c06c458b474d62d7ca5cc89778.jpg" alt="banner" />
+</p>
 
-<!--
-**Krishna-Kilrofkansa/Krishna-Kilrofkansa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Aakarshak!  
 
-Here are some ideas to get you started:
+🚀 I’m passionate about **AI, Web Development, and Open Source**.  
+💡 Currently exploring **Machine Learning, React, and Cloud Computing**.  
+🎯 Goal: To build impactful projects that solve real-world problems.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔧 Technologies & Tools  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,js,react,html,css,nodejs,git,github,linux,firebase,mongodb,c,cpp,java" />
+</p>
+
+---
+
+## 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Krishna-Kilrofkansa&show_icons=true&theme=radical" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krishna-Kilrofkansa&layout=compact&theme=radical" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Krishna-Kilrofkansa&theme=radical" height="180"/>
+</p>
+
+---
+
+## 📈 Weekly Development Breakdown  
+<!--START_SECTION:waka-->
+```text
+## 📈 Weekly Development Breakdown  
+```text
+Python      ███████████████████░░   75%  
+JavaScript  ██████░░░░░░░░░░░░░░   25%  
